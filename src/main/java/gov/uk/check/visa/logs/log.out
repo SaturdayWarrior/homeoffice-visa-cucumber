@@ -1,0 +1,49 @@
+2021-12-13 16:12:435 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 17:12:176 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 17:12:322 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 17:12:999 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 17:12:118 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 17:12:502 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:800 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:808 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:335 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:990 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:310 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:248 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:839 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 18:12:401 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 19:12:721 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 19:12:513 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-13 19:12:378 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-14 22:12:828 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-14 22:12:980 INFO  StartPage :29 - Clicking on reject cookies
+2021-12-14 22:12:395 INFO  StartPage :35 - Clicking on start now button
+2021-12-14 22:12:526 INFO  FamilyImmigrationStatusPage :26 - Selecting Australia from dropdown 
+2021-12-14 22:12:844 INFO  FamilyImmigrationStatusPage :31 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (2e497b4eda1e09aa608e4acbf6cccbff)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:937 INFO  ReasonForTravelPage :36 - Clicking on Tourism button
+2021-12-14 22:12:60 INFO  ReasonForTravelPage :41 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (2e497b4eda1e09aa608e4acbf6cccbff)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:123 INFO  ResultPage :25 - Get text from [[ChromeDriver: chrome on WINDOWS (2e497b4eda1e09aa608e4acbf6cccbff)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2021-12-14 22:12:126 INFO  ResultPage :31 - Verifying result message: You will not need a visa to come to the UK
+2021-12-14 22:12:17 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-14 22:12:724 INFO  StartPage :29 - Clicking on reject cookies
+2021-12-14 22:12:57 INFO  StartPage :35 - Clicking on start now button
+2021-12-14 22:12:160 INFO  FamilyImmigrationStatusPage :26 - Selecting Chile from dropdown 
+2021-12-14 22:12:236 INFO  FamilyImmigrationStatusPage :31 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (17b1065a3f08a7a0cd5ea056a3d57905)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:344 INFO  ReasonForTravelPage :36 - Clicking on Work, academic visit or business button
+2021-12-14 22:12:84 INFO  ReasonForTravelPage :41 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (17b1065a3f08a7a0cd5ea056a3d57905)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:189 INFO  DurationOfStayPage :30 - Selecting more than 6 months radio button 
+2021-12-14 22:12:855 INFO  DurationOfStayPage :45 - Clicking on next step button
+2021-12-14 22:12:864 INFO  ReasonForTravelPage :24 - Clicking on :Health and care professional job
+2021-12-14 22:12:12 INFO  ReasonForTravelPage :30 - Clicking on :[[ChromeDriver: chrome on WINDOWS (17b1065a3f08a7a0cd5ea056a3d57905)] -> xpath: //button[normalize-space()='Continue']]
+2021-12-14 22:12:77 INFO  ResultPage :25 - Get text from [[ChromeDriver: chrome on WINDOWS (17b1065a3f08a7a0cd5ea056a3d57905)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2021-12-14 22:12:78 INFO  ResultPage :31 - Verifying result message: You need a visa to work in health and care
+2021-12-14 22:12:891 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-14 22:12:350 INFO  StartPage :29 - Clicking on reject cookies
+2021-12-14 22:12:637 INFO  StartPage :35 - Clicking on start now button
+2021-12-14 22:12:744 INFO  FamilyImmigrationStatusPage :26 - Selecting Colombia from dropdown 
+2021-12-14 22:12:882 INFO  FamilyImmigrationStatusPage :31 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (04c958d8294f92660052d4def27ad31d)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:953 INFO  ReasonForTravelPage :36 - Clicking on Join partner or family for a long stay button
+2021-12-14 22:12:579 INFO  ReasonForTravelPage :41 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (04c958d8294f92660052d4def27ad31d)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-14 22:12:694 INFO  FamilyImmigrationStatusPage :34 - Clicking on yes radio button
+2021-12-14 22:12:530 INFO  FamilyImmigrationStatusPage :47 - Clicking on continue radio button
+2021-12-14 22:12:590 INFO  ResultPage :36 - Verifying partner visa result[[ChromeDriver: chrome on WINDOWS (04c958d8294f92660052d4def27ad31d)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
